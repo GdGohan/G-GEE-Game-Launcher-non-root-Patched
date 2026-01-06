@@ -1,2 +1,2 @@
-# G-GEE-Game-Launcher-non-root-Patched-Android-2-to-4-
+# G-GEE-Game-Launcher-non-root-Patched
 For Android 5+ try VMOS or VPhoneOS
