@@ -3,7 +3,7 @@ For Android 5+, try VMOS or VPhoneOS with Android ROMs 2.3.6 to 4.4.
 
 Recommendation: Set the date to 2013-1-1
 
-[Launcher](https://github.com/GdGohan/G-GEE-Game-Launcher-non-root-Patched/blob/main/Acrodea%20VividRuntime%20Launcher.apk)
+[Launcher](https://github.com/GdGohan/G-GEE-Game-Launcher-non-root-Patched/releases/tag/V1)
 
 [Some Games](https://drive.google.com/drive/folders/1DJGmHWiBufo8fngNbQJBkrXnyafCisJX?usp=sharing)
 
